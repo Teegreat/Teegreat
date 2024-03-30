@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Teegreat
+- 👋 Hi, I’m Toyin
 - 👀 I’m interested in Web Development & Mobile App Development 
 - 🌱 I’m currently still learning how to improve in the area of web and mobile app development (Reactjs and React Native)
 - 🛠️ I am also finding my way into DevOps; hoping to switch career path
