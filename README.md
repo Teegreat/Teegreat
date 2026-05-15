@@ -3,7 +3,7 @@
 <h1 align="center">Hi there 👋, I'm Toyin</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%2F+Next.js+Specialist;Wordpress+Expert;React+Native+Mobile+Developer;DevOps+Explorer;Open+to+Collaborate+and+Work" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;React+%2F+Next.js+Specialist;Wordpress+Expert;React+Native+Mobile+Developer;DevOps;Open+to+Collaborate+and+Work" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,11 +17,10 @@
 
 - 👋 Hi, I’m Toyin — a **Full Stack Developer** passionate about modern web & mobile solutions
 - 👀 I specialize in **React**, **Next.js**, **React Native**, and **Node.js**
-- 🛠️ Learning DevOps principles: CI/CD, containerization, cloud deployments etc.
+- 🛠️ DevOps principles: CI/CD, containerization, cloud deployments, etc.
 - 💼 Actively open to freelance and collaborative opportunities
 - 📫 Contact me:
   - ✉️ teewebby64@gmail.com
-  - ✉️ tee@teethefreelancer.com
 
 ---
 
